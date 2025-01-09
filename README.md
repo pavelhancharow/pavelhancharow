@@ -5,4 +5,4 @@ Hi I'm Pavel! 👋 I'm proficient in front-end and back-end technologies. My pas
 - 🔭 I enjoy learning about and exploring new technologies.
 - 🌱 I’m currently learning AWS public cloud and GraphQL.
 - 👯 I’m looking to collaborate on exciting React, TypeScript, and Node.js projects that challenge and inspire.
-- 💻 My stack: React, TS, Redux, GraphQL, NodeJS, PostgreSQL, Docker, AWS
+- 💻 My stack: React, TS, Redux, GraphQL, Next.js, Node.js, PostgreSQL, Docker, AWS
